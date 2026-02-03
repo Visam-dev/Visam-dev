@@ -3,12 +3,9 @@
   <img src="./ChatGPT Image Feb 3, 2026, 11_22_15 AM.png" alt="Muhammad Visam Khan - Web & Mobile Developer" />
 </p>
 
-<h1 align="center">Muhammad Visam Khan</h1>
-<h3 align="center">Full-Stack Software Engineer · Web & Mobile</h3>
-
 <p align="center">
-I build scalable web applications and high-quality mobile apps for real-world use.<br/>
-Experienced across frontend, backend, mobile, databases, integrations, and DevOps.
+<b>I build scalable web applications and high-quality mobile apps for real-world use.<b/><br/>
+<b>Experienced across frontend, backend, mobile, databases, integrations, and DevOps.</b>
 </p>
 
 ---
