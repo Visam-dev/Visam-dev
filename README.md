@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="./ChatGPT Image Feb 3, 2026, 11_22_15 AM.png" alt="Muhammad Visam Khan - Web & Mobile Developer" />
+</p>
+
 <h1 align="center">Muhammad Visam Khan</h1>
 <h3 align="center">Full-Stack Software Engineer · Web & Mobile</h3>
 
